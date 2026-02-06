@@ -1,0 +1,19 @@
+# Large files
+*.tflite
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+php/vendor/
+frontend/Pods/
+python/__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+*.xcworkspace
+xcuserdata/

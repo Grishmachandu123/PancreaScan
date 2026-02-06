@@ -1,0 +1,4 @@
+# Python Dependencies for Federated Learning Training Script
+# Install with: pip3 install -r requirements.txt
+
+numpy>=1.21.0
