@@ -188,9 +188,4 @@ That's it! Your app uses the **same model and preprocessing** as your Python pre
 
 ---
 
-## 📖 More Info
 
-See detailed walkthrough:
-```
-/Users/sail/.gemini/antigravity/brain/e6c99261-dc8f-42b2-b111-0aeb161ff0b4/walkthrough.md
-```
